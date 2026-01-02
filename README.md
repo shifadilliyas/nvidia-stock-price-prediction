@@ -82,7 +82,7 @@ Results on test set (last 20% of data):
 
 ## Author
 
-Shifa Dilliyas | Data Science Student
+Shifad Dilliyas | Data Science Student
 
 ## License
 
